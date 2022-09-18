@@ -1,0 +1,14 @@
+[app/ui]
+version = 9.0.1
+modtime = 1663493846.826438100
+
+[app/launcher]
+version = 9.0.1
+modtime = 1663493846.874506700
+
+[views/corona_updates]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = thilak
+version = 9.0.1
+modtime = 1663496565.766211400
